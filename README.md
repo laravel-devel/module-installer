@@ -1,0 +1,1 @@
+Module installer Composer plugin for [Devel](https://github.com/voerro/devel).
