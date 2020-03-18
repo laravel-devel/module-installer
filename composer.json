@@ -1,6 +1,7 @@
 {
     "name": "devel/module-installer-composer-plugin",
     "type": "composer-plugin",
+    "description": "Module installer Composer plugin for Devel",
     "license": "MIT",
     "autoload": {
         "psr-4": {
