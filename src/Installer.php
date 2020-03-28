@@ -30,7 +30,7 @@ class Installer extends LibraryInstaller
         $name = str_replace('/', ' ', $name);
         $name = str_replace(' ', '', ucwords($name));
 
-        return 'Modules/' . $name;
+        return config('devel-modules.paths.modules') . '/' . $name;
     }
 
     /**

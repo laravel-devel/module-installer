@@ -1,1 +1,1 @@
-Module installer Composer plugin for [Devel](https://github.com/voerro/devel).
+Composer module installer plugin for [Devel](https://github.com/laravel-devel/devel)
