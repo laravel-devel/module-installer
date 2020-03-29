@@ -12,7 +12,8 @@
         "class": "Devel\\ModuleInstaller\\ComposerPlugin"
     },
     "require": {
-        "composer-plugin-api": "^1.0"
+        "composer-plugin-api": "^1.0",
+        "illuminate/config": "^6|^7"
     },
     "require-dev": {
         "composer/composer": "^1.3"
